@@ -1,0 +1,4 @@
+*.tf filter=lfs diff=lfs merge=lfs -text
+path/to/terraform-provider-aws_v5.47.0_x5.exe filter=lfs diff=lfs merge=lfs -text
+C:Terraform/terraform-provider-aws_v5.47.0_x5.exe filter=lfs diff=lfs merge=lfs -text
+*.sh filter=lfs diff=lfs merge=lfs -text
